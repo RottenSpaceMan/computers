@@ -1,0 +1,18 @@
+Type:	Subnotebook/Netbook
+Operating system:	Linux, Windows XP, Windows Vista, Windows 7, Windows 8, Windows 10
+CPU:	Intel Atom, AMD APU
+Memory:	512 MB, 1 GB, 2 GB, 4 GB
+Storage:	8/16 GB SSD or 120–500 GB HDD
+Display:	10.1 in (26 cm), 11.6 in (29 cm), 8.9 in (23 cm) 1024×600, 1366×768 LCD TFT, HD Glossy LED LCD
+Input:	89%, 100% size Keyboard/Touchpad
+Camera:	0.3 MP Suyin or 1.3 MP Liteon Webcam
+Connectivity:	3 USB ports
+	5-in-1 card reader
+	VGA video-out port
+	3.5 mm audio jack
+	Realtek 10/100 Mbit/s Ethernet
+	Atheros 802.11b/g WLAN
+	3G/UMTS
+Power:	3 cell: 2.2 Ah, 2.4 Ah, 2.7 Ah, 2.9 Ah;[2] 6 cell: 4.4 Ah, 5.2 Ah, 6.6 Ah (aftermarket extended-life batteries capacity may differ)
+Dimensions:	9.8 in (25 cm) W × 6.7 in (17 cm) D × 1 in (2.5 cm) H
+Mass:	2.19 lb (0.99 kg) for SSD, 3 cell battery unit 2.78 lb (1.26 kg) for HDD, 6 cell battery unit
